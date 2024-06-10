@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Heebo:wght@100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+
+.body {
+	background-image: url(pattern-trio.png);
+	
+}
+
+.body {
+	font-family: "Heebo", sans-serif;
+	font-weight: normal;
+	background: #ffffff;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	font-size: 16px;
+  
+    
+}
+ /* background: #bdebbdd8; */
+.container {
+	max-width: 750px;
+	margin: auto;
+	padding-top: 30px;
+  
+}
+
+.avatar {
+	width: 350px;
+	border-radius: 30px;
+	box-shadow: 4px 4px 14px rgba(0, 0, 0, .25);
+}
+
+
+.info {
+	margin-left: 20px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+	display: flex;
+	font-size: 10px;
+
+  }
+
+	
+.info-text h1,
+.info-text h2 {
+		color: #ffffff;
+		
+	}
+
+.info-text {
+	color: #ffffff;
+	
+}
+
+.info-text h1{
+	font-size: 3em;
+    margin-bottom: 10px;
+		margin-center: 40px;
+		text-align: center;
+}
+  .info-text p {
+	font-size: 2em;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+	color: #ffffff;
+	margin: 0;
+}  
+	  
+.info-text h2{
+	font-size: 2.5em;
+    margin-bottom: 10px;
+		margin-center: 50px;
+		text-align: center;
+
+		
+}
+
+ @media (max-width: 750px) {
+    .info {
+				display: block;
+				text-align: center;
+   }
+ }
+
+ .form-row {
+margin-bottom: 10px;
+
+ }
+
+ .form-row .img {
+	display: inline-block;
+	margin-bottom: 10px;
+
+ }
+
+ 
+
+ .img {
+	width: 350px;
+	border-radius: 30px;
+ }
+ 
+ .card {
+    /* border: 1px solid black; */
+    border-radius: 20px;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+		
+		
+}
+
+.card h2 {
+	color: #ffffff;
+	margin-bottom: 20px
+}
+
+.card h1 {
+	color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.bg-green {
+   
+    background: #78b47d;
+}
+
+.bg-green {
+    background: #78b47d;
+}
+
+.bg-green {
+    background: #78b47d;
+}
+
+.bg-green{
+    background:  #78b47d;
+}
+
+.bg-green {
+    background:  #78b47d;
+}
+
+.btn {
+    background: rgb(0, 100, 0);
+		border-radius: 10px;
+		font-size: 20px;
+    padding: 10px 20px;
+    color:#ffffff;
+    border: none;
+    font-family: inherit;
+    cursor: pointer;
+}
+
+a {
+	color: #0000ff;
+	padding: 20px;
+  text-decoration: none;
+
+	
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+a:active {
+
+color: #32cd32;
+}
+
+a:visited {
+	color: black;
+
+}
+
+
+.btn:hover {
+    opacity: 0.8;
+		
+}
+
+.list {
+    padding: 0 30px;
+}
+
+.list li {
+	margin-bottom: 10px;
+  color: #00000;
+	}
+
+
+.table {
+    width: 100%; 
+		padding-bottom: 10px;
+}
+
+.table td {
+	color: #000000;
+    padding-bottom: 10px;
+		
+}
+
+.table th {
+	color: #000000;
+	  padding-bottom: 10px;
+		
+}
+ 
+
+.table td:nth-child(2),
+.table td:nth-child(3) {
+ color: rgb(0, 0, 0);
+
+		
+}
+
+
+.form h2{
+   text-align: center;
+	 color: #000000;
+	 padding-top: 10px;
+}
+
+.form-group label {
+	display: block;
+	font-size: 28px;
+	/* color: rgb(44, 35, 35); */
+	color: #ffffff;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 50%;
+	box-sizing: border-box;
+	border: none;
+	background: transparent;
+	border-bottom: 1px solid #fff;
+	color: #000;
+	font-size: 20px;
+	padding: 15px 20px;
+	outline: none;
+	font-family: inherit;
+  }
+
+.form {
+	text-align: center;
+	
+}
+
+.form h2{
+	padding-bottom: 10px;
+	text-align: center;
+	color: #ffff;
+}
+
+.form-group {
+	text-align: center;
+	padding-bottom: 10px;
+	
+}
+
+.form-group h2{
+	text-align: left;
+}
+
+
+
+.form-group  input  {
+	color: #;
+}
+
+
+
+
+
